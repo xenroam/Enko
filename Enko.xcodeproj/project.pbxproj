@@ -11,12 +11,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0C950578D74CB284477DD3EF /* Pods-enko.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-enko.release.xcconfig"; path = "Target Support Files/Pods-enko/Pods-enko.release.xcconfig"; sourceTree = "<group>"; };
 		178771BF2FF51AA60067E220 /* Enko.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Enko.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D73C6F77863FCEAD3AC0BDE /* Pods-Enko.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Enko.debug.xcconfig"; path = "Target Support Files/Pods-Enko/Pods-Enko.debug.xcconfig"; sourceTree = "<group>"; };
 		23C8E6B8C42993308ADDAB6C /* Pods_Enko.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Enko.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1D14A89D880412960EE445D /* Pods-Enko.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Enko.release.xcconfig"; path = "Target Support Files/Pods-Enko/Pods-Enko.release.xcconfig"; sourceTree = "<group>"; };
-		D6579FF5E52EF1E5912DE004 /* Pods-enko.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-enko.debug.xcconfig"; path = "Target Support Files/Pods-enko/Pods-enko.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -62,8 +60,6 @@
 		6BDBD122F6701C30E8C48006 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D6579FF5E52EF1E5912DE004 /* Pods-enko.debug.xcconfig */,
-				0C950578D74CB284477DD3EF /* Pods-enko.release.xcconfig */,
 				1D73C6F77863FCEAD3AC0BDE /* Pods-Enko.debug.xcconfig */,
 				C1D14A89D880412960EE445D /* Pods-Enko.release.xcconfig */,
 			);
