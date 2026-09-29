@@ -4,11 +4,11 @@
         <title>Enko</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 08 Aug 2026 15:14:13 +0800</pubDate>
+            <pubDate>Tue, 29 Sep 2026 21:06:26 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/xenroam/Enko/releases/download/v1.0/Enko-1.0.dmg" length="4605572" type="application/octet-stream" sparkle:edSignature="ySV+wM3itNAziWOgB1sSujH8BruBIm2DBtW/Q9/ro0lkxenX/bVTwO8wgtbB2XTu+ydesAO9tEW3S3uCC3kMBg=="/>
+            <enclosure url="https://github.com/xenroam/Enko/releases/download/v1.0/Enko-1.0.dmg" length="4723159" type="application/octet-stream" sparkle:edSignature="MoZWDUg39js1PErjcwcNVlHTt66WRQV6A25Uq3BAkzMtBi5NVi5ENOL7s9fAPmFIsDiv8wFheAYH2mY0XSc7Bg=="/>
         </item>
     </channel>
 </rss>
